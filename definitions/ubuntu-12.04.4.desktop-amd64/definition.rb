@@ -1,0 +1,1 @@
+../ubuntu-12.04.4.desktop-i386/definition.rb
